@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCJUL13.props" />
+</Project>
